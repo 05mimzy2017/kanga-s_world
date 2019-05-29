@@ -1,0 +1,134 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [53, 13],
+		"start": [1, 10.5],
+		"goal": [44, 10, 2, 2]
+	},
+
+	"physics": {
+		"gravity": 1.5,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/swamp.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/swamp.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 10.5, "Joey"]
+		],
+
+		"main": [
+			[1, 12, "Dirt"],
+			[2, 12, "Dirt"],
+			[3, 12, "Dirt"],
+			[0, 12, "Dirt"],
+			[4, 12, "Dirt"],
+			[5, 12, "Dirt"],
+			[6, 12, "Dirt"],
+			[7, 12, "Dirt"],
+			[8, 12, "Dirt"],
+			[9, 12, "Dirt"],
+			[10, 12, "Dirt"],
+			[11, 12, "Dirt"],
+			[12, 12, "Dirt"],
+			[13, 12, "Dirt"],
+			[14, 12, "Dirt"],
+			[15, 12, "Dirt"],
+			[16, 12, "Dirt"],
+			[17, 12, "Dirt"],
+			[18, 12, "Dirt"],
+			[19, 12, "Dirt"],
+			[20, 12, "Dirt"],
+			[21, 12, "Dirt"],
+			[22, 12, "Dirt"],
+			[23, 12, "Dirt"],
+			[24, 12, "Dirt"],
+			[25, 12, "Dirt"],
+			[26, 12, "Dirt"],
+			[27, 12, "Dirt"],
+			[28, 12, "Dirt"],
+			[29, 12, "Dirt"],
+			[30, 12, "Dirt"],
+			[31, 12, "Dirt"],
+			[32, 12, "Dirt"],
+			[33, 12, "Dirt"],
+			[34, 12, "Dirt"],
+			[35, 12, "Dirt"],
+			[36, 12, "Dirt"],
+			[37, 12, "Dirt"],
+			[38, 12, "Dirt"],
+			[39, 12, "Dirt"],
+			[40, 12, "Dirt"],
+			[41, 12, "Dirt"],
+			[42, 12, "Dirt"],
+			[43, 12, "Dirt"],
+			[44, 12, "Dirt"],
+			[45, 12, "Dirt"],
+			[46, 12, "Dirt"],
+			[47, 12, "Dirt"],
+			[48, 12, "Dirt"],
+			[49, 12, "Dirt"],
+			[50, 12, "Dirt"],
+			[51, 12, "Dirt"],
+			[52, 12, "Dirt"],
+
+			[4, 11, "Orange"],
+			[5, 11, "Orange"],
+			[5, 10, "Orange"],
+			[6, 10, "Orange"],
+			[6, 9, "Orange"],
+			[7, 9, "Orange"],
+			[7, 8, "Orange"],
+			[8, 8, "Orange"],
+			[8, 7, "Orange"],
+			[11, 7, "Orange"],
+			[12, 7, "Orange"],
+
+			[15, 9, "Orange"],
+			[16, 9, "Orange"],
+
+			[20, 9, "Orange"],
+			[20, 10, "Orange"],
+			[20, 11, "Orange"],
+
+			[27, 9.5, "Orange"],
+			[28, 9.5, "Orange"],
+			[29, 9.5, "Orange"],
+			[30, 9.5, "Orange"],
+			[31, 9.5, "Orange"],
+
+			[33, 8, "Orange"],
+			[34, 8, "Orange"],
+			[35, 8, "Orange"],
+			[36, 11, "Orange"]
+		],
+
+		"foreground": [
+			[12, 11, "Plant"],
+			[19, 11, "Plant"],
+			[34, 11, "Plant"]
+		]
+	},
+
+	"items": [
+		[9.8, 5, "Gem"],
+		[20, 8, "Gem"],
+		[29, 9, "Gem"],
+		[34, 7, "Gem"]
+	],
+
+	"enemies": [
+		[11, 6, "BasicEnemy"],
+		[18, 11, "BasicEnemy"],
+		[30, 9, "PlatformEnemy"],
+		[34, 7, "PlatformEnemy"]
+	]
+}
