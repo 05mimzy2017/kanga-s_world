@@ -82,4 +82,4 @@ Level 4 takes place at an industrial plant. This is the hardest level and final 
 
 ## Downloads
 
-[First Release Page](https://github.com/05mimzy2017/kangas_world/releases)
+[Download or View the New Release](https://github.com/05mimzy2017/kangas_world/releases)
