@@ -36,6 +36,10 @@ Hunters:
 
 -Hunters just face the same way going back and forth trying to hit you
 
+## Hearts
+
+You have three hearts. Once you run out of hearts, you die. The only way to lose hearts is if you get hit by a dingo or a hunter. It's your job to keep your hearts and finish the game. 
+
 ## Title Screen
 
 ![Image of title screen](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/title_screen.png)
