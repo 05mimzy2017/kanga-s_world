@@ -18,23 +18,27 @@ This game is fairly simple, you:
  
 -Use the space bar to jump and avoid enemies
 
+-Collect strawberries to gain points. If you get hit by an enemy, you do not lose points, you just lose a heart
+
 ## Enemy Animation
 
-Dingos:
+'''markdown 
+ Dingos:
 
--Dingos are basic enemies
+ -Dingos are basic enemies
 
--There are two dingos you must get past.
+ -There are two dingos you must get past.
 
--The dingos can turn and go back and forth
+ -The dingos can turn and go back and forth
 
-Hunters:
+ Hunters:
 
--Hunters are platform enemies which means they stay on platforms
+ -Hunters are platform enemies which means they stay on platforms
 
--There are two hunters you must get past. 
+ -There are two hunters you must get past. 
 
--Hunters just face the same way going back and forth trying to hit you
+ -Hunters just face the same way going back and forth trying to hit you
+'''
 
 ## Hearts
 
