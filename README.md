@@ -1,8 +1,8 @@
 # Pygame Platformer (2019)
 
-## Animation
+## Backstory
 
-This is the animated branch. 
+In a world of kangaroos, Mama's joey went missing and she can't find him. She travels the world fighting dingos and hunters, just to get her baby back. 
 
 ### Hero Animation
 
