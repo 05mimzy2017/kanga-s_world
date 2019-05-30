@@ -22,7 +22,6 @@ This game is fairly simple, you:
 
 ## Enemy Animation
 
-'''markdown 
  Dingos:
 
  -Dingos are basic enemies
@@ -38,7 +37,6 @@ This game is fairly simple, you:
  -There are two hunters you must get past. 
 
  -Hunters just face the same way going back and forth trying to hit you
-'''
 
 ## Hearts
 
@@ -56,7 +54,18 @@ Overall there are four different levels. Each level has a different theme with d
 
 ### Level 1
 
-Level 1 is probably the easiest level. It starts out in the deserts where you are most likely to find kangaroos. 
+Level 1 is probably easiest level. It starts out in the deserts where you are most likely to find kangaroos. 
 
 ![Image of level 1](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/level_1.png)
+
+### Level 2
+
+Level 2 takes place at a swamp. This is all your going to get because I want to keep it a surprise. 
+
+### Level 3
+
+Level 3 takes place in a ghost forest. You hear sad violin music in the background that really makes it creepy.
+
+![Image of level 3](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/level_3.png)
+
 
