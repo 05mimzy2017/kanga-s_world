@@ -23,13 +23,17 @@ This game is fairly simple, you:
 Dingos:
 
 -Dingos are basic enemies
+
 -There are two dingos you must get past.
+
 -The dingos can turn and go back and forth
 
 Hunters:
 
 -Hunters are platform enemies which means they stay on platforms
+
 -There are two hunters you must get past. 
+
 -Hunters just face the same way going back and forth trying to hit you
 
 ## Title Screen
