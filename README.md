@@ -24,6 +24,8 @@ This game is fairly simple, you:
 
  Dingos:
 
+![Image of dingo](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/characters/dingo_2.png)
+
  -Dingos are basic enemies
 
  -There are two dingos you must get past.
@@ -31,6 +33,8 @@ This game is fairly simple, you:
  -The dingos can turn and go back and forth
 
  Hunters:
+ 
+ ![Image of hunter](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/characters/hunter.png)
 
  -Hunters are platform enemies which means they stay on platforms
 
