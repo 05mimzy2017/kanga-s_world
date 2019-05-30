@@ -9,6 +9,7 @@ In a world of kangaroos, Mama's joey went missing and she can't find him. She tr
 ## Goal
 
 The goal of this game is to have Mama kangaroo find her joey
+![Image of kanga](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/characters/kanga_right.png)
 
 ## How to play
 
