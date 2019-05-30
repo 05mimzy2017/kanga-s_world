@@ -76,6 +76,9 @@ Level 3 takes place in a ghost forest. You hear sad violin music in the backgrou
 
 ![Image of level 3](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/level_3.png)
 
+### Level 4
+
+Level 4 takes place at an industrial plant. This is the hardest level and final level of Kanga's World.
 
 ## Downloads
 
