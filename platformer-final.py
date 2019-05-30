@@ -19,7 +19,7 @@ clock = pygame.time.Clock()
 refresh_rate = 60
 
 # Optional grid for help with level design
-show_grid = True
+show_grid = False
 grid_color = (150, 150, 150)
 
 screen = pygame.display.set_mode([SCREEN_WIDTH, SCREEN_HEIGHT])
@@ -83,6 +83,7 @@ tile_images = { "Sand": load_image('assets/images/tiles/platformPack_tile002.png
                 "Yellow": load_image('assets/images/tiles/platformPack_tile008.png'),
                 "Orange": load_image('assets/images/tiles/platformPack_tile020.png'),
                 "Gray": load_image('assets/images/tiles/platformPack_tile041.png'),
+                "Castle": load_image('assets/images/tiles/platformPack_tile040.png'),
                 "Plant": load_image('assets/images/tiles/platformPack_tile045.png'),
                 "Wood": load_image('assets/images/tiles/platformPack_tile034.png'),
                 "Open_Door": load_image('assets/images/tiles/platformPack_tile048.png'), 
@@ -100,8 +101,6 @@ item_images = { "Gem": load_image('assets/images/items/sprite_3.png'),
                 
 
 title_image = {"quote1": load_image('assets/images/items/quote1.png')}
-
-loser_image = {"loser": load_image('assets/images/items/loser.png')}
 
 
 # Levels
