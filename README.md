@@ -4,9 +4,18 @@
 
 In a world of kangaroos, Mama's joey went missing and she can't find him. She travels the world fighting dingos and hunters, just to get her baby back. 
 
-### Hero Animation
+(PS. if you don't know what a joey is, it is a baby kangaroo) 
 
-The hero has four additional attributes.
+## Goal
+
+The goal of this game is to have Mama kangaroo find her joey
+
+## How to play
+
+This game is fairly simple, you:
+
+-Use the right and left arrow keys to move back and forth
+-Use the space bar to jump and avoid enemies
 
 - `facing_right` is a boolean which is `True` when the hero is facing right and `False` otherwise. When the hero is first initialized, `facing_right` is set to `True`. Using the arrows to move right or left set this variable while playing.
 - `steps` is a variable that tracks how many iterations of the game loop have elapsed while the hero is walking.
