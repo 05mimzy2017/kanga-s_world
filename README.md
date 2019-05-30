@@ -42,4 +42,6 @@ You have three hearts. Once you run out of hearts, you die. The only way to lose
 
 ## Title Screen
 
+The title screen starts with an inspirational quote to get you hyped for the game. It is also relaxing due to sunset shown behind the qupte. It is the perfect title screen to get you ready to go say a joey.
+
 ![Image of title screen](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/title_screen.png)
