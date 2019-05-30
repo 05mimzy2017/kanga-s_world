@@ -2,7 +2,7 @@
 
 ## Backstory
 
-In a world of kangaroos, Mama's joey went missing and she can't find him. She travels the world fighting dingos and hunters, just to get her baby back. 
+In a world of kangaroos, Mama's joey went out to play. An hour later Mama went to call her joey but couldn't spot him. Mama found out he was missing when she couldn't find him. She will travel the world fighting dingos and hunters just to get her baby back. She will go past deserts, swamps, forest, and an industrial plant to find her joey.
 
 (PS. if you don't know what a joey is, it is a baby kangaroo) 
 
@@ -21,6 +21,8 @@ This game is fairly simple, you:
 -Use the space bar to jump and avoid enemies
 
 -Collect strawberries to gain points. If you get hit by an enemy, you do not lose points, you just lose a heart
+
+When you start the game, you have your title screen which is the first stage. Then from there you start the game and get to the first level. After the first level, you go through levels 2, 3, and 4. If you win, a win screen will pop up. If you lose, a lose screen will pop up and then you will have to start again. You get off the lose or win screens, hit the spacebar to get back to the title screen to start over. 
 
 ## Enemy Animation
 
