@@ -79,4 +79,4 @@ Level 3 takes place in a ghost forest. You hear sad violin music in the backgrou
 
 ## Downloads
 
-[Release Page](https://github.com/05mimzy2017/kangas_world/releases)
+[First Release Page](https://github.com/05mimzy2017/kangas_world/releases)
