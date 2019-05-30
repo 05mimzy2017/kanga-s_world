@@ -34,4 +34,4 @@ Hunters:
 
 ## Title Screen
 
-![title screen](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/title-screen.png)
+![Image of title screen](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/github/title_screen.png)
