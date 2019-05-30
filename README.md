@@ -24,7 +24,7 @@ This game is fairly simple, you:
 
  Dingos:
 
-![Image of dingo](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/characters/dingo_2.png)
+![Image of dingo](https://raw.githubusercontent.com/05mimzy2017/kangas_world/master/assets/images/characters/dingo_1.png)
 
  -Dingos are basic enemies
 
